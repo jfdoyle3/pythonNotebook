@@ -22,7 +22,7 @@ print (none is None)
 print (number is not None)
 
 # Math
-# Comeparative operators works the same as any langusge
+# Comeparison operators works the same as any language
 # Typical math operators: +,-,*,% works the same except:
 # / returns a float
 print (3/4)
